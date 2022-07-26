@@ -1,4 +1,5 @@
 export default {
+  base:'./',    
   themeConfig: {
     siteTitle: "RTCStack",
     nav: [
