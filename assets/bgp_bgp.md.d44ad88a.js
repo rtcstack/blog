@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.a63d84fe.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bgp/bgp.md"}'),s={name:"bgp/bgp.md"},r=o("p",null,"bgp",-1),n=[r];function p(c,_,d,i,l,m){return a(),t("div",null,n)}var b=e(s,[["render",p]]);export{g as __pageData,b as default};
