@@ -1,5 +1,4 @@
 export default {
-  base: './',
   title: 'RTCStack',
   description: 'A RTCStack Site',
   lang: 'zh-CN',
