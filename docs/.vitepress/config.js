@@ -1,4 +1,6 @@
 export default {
+  base:'./',  
+  dest: './dist',  
   title: 'RTCStack',
   description: 'A RTCStack Site',
   lang: 'zh-CN',
