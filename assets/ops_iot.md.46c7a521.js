@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.90a5820b.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ops/iot.md","lastUpdated":1658816606000}'),o={name:"ops/iot.md"};function r(s,c,n,p,i,d){return a(),e("div")}var f=t(o,[["render",r]]);export{m as __pageData,f as default};
